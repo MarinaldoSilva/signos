@@ -1,0 +1,72 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.signo-aries {
+    background-color: #692f2f;
+}
+
+.signo-touro {
+    background-color: #4ba54b;
+}
+
+.signo-gemeos {
+    background-color: #8282e7;
+}
+
+.signo-cancer {
+    background-color: #d4d439;
+}
+
+.signo-leao {
+    background-color: #967442;
+}
+
+.signo-virgem {
+    background-color: #329967;
+}
+
+.signo-libra {
+    background-color: #913edf;
+}
+
+.signo-escorpiao {
+    background-color: #d64ad6;
+}
+
+.signo-sagitario {
+    background-color: #575721;
+}
+
+.signo-capricornio {
+    background-color: #e45f5f;
+}
+
+.signo-aquario {
+    background-color: #3aa0c2;
+}
+
+.signo-peixes {
+    background-color: #016fec;
+}
+
+#signoInfo {
+    padding: 20px;
+    border-radius: 10px;
+}
+
